@@ -18,6 +18,6 @@ You'll also learn how to:
 <br>
 <img src="./Capture1.PNG" />
 <br>
-<img src="./Capture2.PNG" />
-<br>
 <img src="./Capture3.PNG" />
+<br>
+<img src="./Capture4.PNG" />
