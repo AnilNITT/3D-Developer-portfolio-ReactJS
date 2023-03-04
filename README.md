@@ -13,3 +13,11 @@ You'll also learn how to:
 - Make your code reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices
 - Implement sending emails through a form on the website
 - Ensure responsiveness across all devices and improve your site's performance using Suspense and Preload.
+
+<img src="./Capture.PNG" />
+<br>
+<img src="./Capture1.PNG" />
+<br>
+<img src="./Capture2.PNG" />
+<br>
+<img src="./Capture3.PNG" />
